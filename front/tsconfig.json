@@ -23,8 +23,7 @@
     "**/*.ts",
     "**/*.tsx",
     "src/styles/variables.js",
-    "src/styles/global-style.\bcss",
-    "src/assets/svg.js"
+    "src/styles/global-style.\bcss"
   ],
   "exclude": ["node_modules"]
 }
